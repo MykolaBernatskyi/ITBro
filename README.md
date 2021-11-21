@@ -1,2 +1,2 @@
 # ITBro
-IT BRO (my studing and involvement in projects)
+IT BRO (my studying and involvement in projects)
