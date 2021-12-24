@@ -13,8 +13,11 @@ let joneBodyMassIndex = bodyMassIndex (joneParametr);
 
 alert(`ІМТ Марка ${markBodyMassIndex}`);
 alert(`ІМТ Джона ${joneBodyMassIndex}`);
+console.log(`ІМТ Марка ${markBodyMassIndex}`);
+console.log(`ІМТ Джона ${joneBodyMassIndex}`);
 
 let markHigherBMI = false;
 
 (markBodyMassIndex > joneBodyMassIndex)? markHigherBMI=true:markHigherBMI=false;
 alert(`markHigherBMI (${markHigherBMI})`);
+console.log(`markHigherBMI (${markHigherBMI})`);
